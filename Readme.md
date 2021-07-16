@@ -23,4 +23,4 @@ is written as 2 3 4,1 3 4,4 5 6
 8. Now the results of contectual classification and soft k means can be seen by using previous and next buttons.
 9. Results can be compared by opening in new window using the button given in GUI.
 
-Developed by:	[Nazish Khan] (https://github.com/nazuk27)
+Developed by:	[Nazish Khan](https://github.com/nazuk27)
