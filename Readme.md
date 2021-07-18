@@ -13,9 +13,9 @@ Run the file class_GUI:
 5. Click on 'Enter compatibilty matrix' and enter matrix elements separated by space (for elements in a row)
 and separated by comma for different rows.
 ex: 
-[2 3 4
- 1 3 4
- 4 5 6]
+[[2 3 4]
+ [1 3 4]
+ [4 5 6]]
 is written as 2 3 4,1 3 4,4 5 6
 
 6. Enter number of neighbours and iterations in the given boxes.
@@ -23,4 +23,4 @@ is written as 2 3 4,1 3 4,4 5 6
 8. Now the results of contectual classification and soft k means can be seen by using previous and next buttons.
 9. Results can be compared by opening in new window using the button given in GUI.
 
-Developed by:	[Nazish Khan](https://github.com/nazuk27)
+Developed by:	[Nazish Khan](https://www.linkedin.com/in/nazish-khan-1a1b79139/)
